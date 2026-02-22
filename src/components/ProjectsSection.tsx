@@ -61,6 +61,30 @@ const projects: Project[] = [
     image: '/assets/img/projeto-starbucks-img.png',
     link: 'https://valerio-junior.github.io/projeto-starbucks/',
   },
+  {
+    titleKey: 'project7',
+    descKey: 'project7',
+    tags: ['HTML', 'CSS'],
+    color: '#06b6d4',
+    image: '/assets/img/projeto-site-delivery.png',
+    link: 'https://valerio-junior.github.io/site-delivery/',
+  },
+  {
+    titleKey: 'project8',
+    descKey: 'project8',
+    tags: ['HTML', 'CSS', 'JavaScript'],
+    color: '#06b6d4',
+    image: '/assets/img/projeto-mario.png',
+    link: 'https://valerio-junior.github.io/projeto-mario-bros/',
+  },
+  {
+    titleKey: 'project9',
+    descKey: 'project9',
+    tags: ['React', 'CSS', 'API'],
+    color: '#06b6d4',
+    image: '/assets/img/projeto-sorteador-img.png',
+    link: 'https://valerio-junior.github.io/projeto-sorteador/',
+  },
 ]
 
 const Section = styled.section`

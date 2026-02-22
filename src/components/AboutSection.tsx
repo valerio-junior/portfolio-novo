@@ -202,7 +202,7 @@ export function AboutSection() {
             <PhotoWrapper>
               <PhotoGlow />
               <ProfileImage
-                src="/assets/img/avatar.png"
+                src="/assets/img/avatar.jpeg"
                 alt="Valerio Marcos"
               />
               <CornerAccentTL />
