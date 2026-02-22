@@ -63,6 +63,21 @@ const translations: Record<string, Record<Language, string>> = {
     pt: 'Projeto do starbucks, onde e possivel trocar as cores e a imagem do copo dinamicamente e tirar duvidas com o bot, verificando valores e produtos do starbucks.',
     en: 'Starbucks project where you can dynamically change colors and cup images and ask questions to the bot, checking Starbucks values and products.',
   },
+  'project7.title': { pt: 'Site delivery', en: 'Delivery Website' },
+  'project7.desc': {
+    pt: 'Este projeto consiste no desenvolvimento de uma interface moderna e intuitiva para um serviço de delivery, focada na experiência do usuário (UX). O layout foi construído utilizando HTML5 semântico e CSS3 puro, priorizando uma navegação fluida. O destaque do projeto é a vitrine de produtos organizada em um grid, que apresenta os itens de forma clara, com preços em evidência e efeitos de hover que aumentam a interatividade. O design utiliza uma paleta de cores voltada para o setor gastronômico, garantindo que o produto visual seja tão atraente quanto o lanche real.',
+    en: 'This project consists of developing a modern and intuitive interface for a delivery service, focused on user experience (UX). The layout was built using semantic HTML5 and pure CSS3, prioritizing smooth navigation. The highlight of the project is the product showcase organized in a responsive grid, which displays items clearly, with prominent pricing and hover effects that enhance interactivity. The design uses a color palette tailored to the food industry, ensuring the visual product is as appealing as the real snack.',
+  },
+  'project8.title': { pt: 'Mario Encanador', en: 'Mario Plumber' },
+  'project8.desc': {
+    pt: 'Uma landing page temática e criativa inspirada no universo do Super Mario, desenvolvida para simular um serviço real de manutenção hidráulica. O projeto transforma a estética clássica dos jogos da Nintendo em uma solução moderna de prestação de serviços, focando em conversão e facilidade de contato, no qual é possivel mandar mensagem no whatsapp e também enviar e-mail com nome, contato e  descrição do problema que esta tendo.',
+    en: 'A themed and creative landing page inspired by the Super Mario universe, developed to simulate a real plumbing maintenance service. The project transforms the classic Nintendo game aesthetic into a modern service delivery solution, focusing on conversion and ease of contact, where users can send a message via WhatsApp and also send an email with their name, contact information, and a description of the issue they are experiencing.',
+  },
+  'project9.title': { pt: 'Sorteador', en: 'Random Number Picker' },
+  'project9.desc': {
+    pt: 'Uma ferramenta web prática e minimalista desenvolvida para realizar sorteios rápidos entre dois valores definidos pelo usuário. O foco do projeto foi criar uma interface limpa onde a funcionalidade principal é executada de forma instantânea e sem distrações.',
+    en: 'A practical and minimalist web tool developed to perform quick draws between two values defined by the user. The focus of the project was to create a clean interface where the main functionality is executed instantly and without distractions',
+  },
 
   // About
   'about.title': { pt: 'Sobre mim', en: 'About me' },
