@@ -15,19 +15,19 @@ const socials: Social[] = [
   {
     name: 'LinkedIn',
     icon: Linkedin,
-    href: 'https://linkedin.com',
+    href: 'https://www.linkedin.com/in/valeriomarcos/',
     color: '#0a66c2',
   },
   {
     name: 'GitHub',
     icon: Github,
-    href: 'https://github.com',
+    href: 'https://github.com/valerio-junior',
     color: '#ffffff',
   },
   {
     name: 'WhatsApp',
     icon: MessageCircle,
-    href: 'https://wa.me/',
+    href: 'https://wa.me/5543984071477?text=Oii...',
     color: '#25d366',
   },
 ]
