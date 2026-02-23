@@ -56,7 +56,7 @@ const projects: Project[] = [
   {
     titleKey: 'project6',
     descKey: 'project6',
-    tags: ['React', 'CSS', 'API'],
+    tags: ['HTML', 'CSS', 'JavaScript'],
     color: '#06b6d4',
     image: '/assets/img/projeto-starbucks-img.png',
     link: 'https://valerio-junior.github.io/projeto-starbucks/',
@@ -80,7 +80,7 @@ const projects: Project[] = [
   {
     titleKey: 'project9',
     descKey: 'project9',
-    tags: ['React', 'CSS', 'API'],
+    tags: ['HTML', 'CSS', 'JavaScript'],
     color: '#06b6d4',
     image: '/assets/img/projeto-sorteador-img.png',
     link: 'https://valerio-junior.github.io/projeto-sorteador/',
