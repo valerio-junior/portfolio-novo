@@ -16,7 +16,7 @@ const translations: Record<string, Record<Language, string>> = {
   'nav.contact': { pt: 'Contato', en: 'Contact' },
 
   // Hero
-  'hero.greeting': { pt: 'Ola, meu nome e', en: 'Hi, my name is' },
+  'hero.greeting': { pt: 'Ola, meu nome é', en: 'Hi, my name is' },
   'hero.role': { pt: 'Desenvolvedor Front-End Junior', en: 'Junior Front-End Developer' },
   'hero.description': {
     pt: 'Estou realizando esse portfolio para verificarem alguns de meus projetos, mas estou sempre buscando evoluir e aprendendo tecnologias utilizadas no mercado. Atualmente sou desenvolvedor front-end e busco oportunidades nessa area, mas estudando tecnologias Back-End.',
@@ -82,7 +82,7 @@ const translations: Record<string, Record<Language, string>> = {
   // About
   'about.title': { pt: 'Sobre mim', en: 'About me' },
   'about.text': {
-    pt: 'Minha jornada e marcada pela versatilidade e pelo foco em resultados. De ex-jogador de futebol profissional a suporte tecnico especializado, sempre busquei entender como as engrenagens funcionam para entregar a melhor experiencia. Com passagens pelos setores de vendas e suporte de softwares criticos (Postos e Laboratorios), desenvolvi uma visao agucada para a resolucao de problemas e o atendimento ao usuario. Atualmente, estou focado na transicao de carreira para Desenvolvimento Front-end, unindo minha experiencia em suporte com o poder do HTML, CSS e JavaScript para criar interfaces intuitivas e eficientes. Estou em busca da minha primeira oportunidade para aplicar tecnica e determinacao em projetos reais.',
+    pt: 'Minha jornada é marcada pela versatilidade e pelo foco em resultados. De ex-jogador de futebol profissional a suporte técnico especializado, sempre busquei entender como as engrenagens funcionam para entregar a melhor experiência. Com passagens pelos setores de vendas e suporte de softwares criticos (Postos e Laboratórios), desenvolvi uma visão aguçada para a resolução de problemas e o atendimento ao usuário. Atualmente, estou focado na transição de carreira para Desenvolvimento Front-end, unindo minha experiência em suporte com o poder do HTML, CSS e JavaScript para criar interfaces intuitivas e eficientes. Estou em busca da minha primeira oportunidade para aplicar tecnica e determinacao em projetos reais.',
     en: "My journey is marked by versatility and a focus on results. From a former professional football player to specialized technical support, I've always sought to understand how the gears work to deliver the best experience. With experience in sales and critical software support (Gas Stations and Laboratories), I developed a sharp vision for problem-solving and user support. Currently, I'm focused on transitioning my career to Front-end Development, combining my support experience with the power of HTML, CSS and JavaScript to create intuitive and efficient interfaces. I'm looking for my first opportunity to apply technique and determination to real projects.",
   },
 
