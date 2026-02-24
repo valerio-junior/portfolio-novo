@@ -79,6 +79,28 @@ const translations: Record<string, Record<Language, string>> = {
     en: 'A practical and minimalist web tool developed to perform quick draws between two values defined by the user. The focus of the project was to create a clean interface where the main functionality is executed instantly and without distractions',
   },
 
+  // Professional Projects
+  'proProjects.title': { pt: 'Projetos profissionais', en: 'Professional Projects' },
+  'proProjects.subtitle': {
+    pt: 'Landing pages desenvolvidas para clientes reais',
+    en: 'Landing pages developed for real clients',
+  },
+  'proProject1.title': { pt: 'Landing Page Academia', en: 'Gym Landing Page' },
+  'proProject1.desc': {
+    pt: 'Landing page profissional desenvolvida para uma academia, com foco em atrair novos alunos, apresentar os planos disponíveis, mostrar a estrutura do espaço e facilitar o contato direto para matrícula.',
+    en: 'Professional landing page developed for a gym, focused on attracting new students, presenting available plans, showcasing the facility and making it easy to get in touch for enrollment.',
+  },
+  'proProject2.title': { pt: 'Landing Page Advocacia', en: 'Law Firm Landing Page' },
+  'proProject2.desc': {
+    pt: 'Landing page profissional desenvolvida para um escritório de advocacia, com design elegante e confiável, apresentando as áreas de atuação, depoimentos de clientes e formulário de contato para consultas jurídicas.',
+    en: 'Professional landing page developed for a law firm, with an elegant and trustworthy design, presenting practice areas, client testimonials and a contact form for legal consultations.',
+  },
+  'proProject3.title': { pt: 'Landing Page Petshop', en: 'Pet Shop Landing Page' },
+  'proProject3.desc': {
+    pt: 'Landing page profissional desenvolvida para um petshop, com design amigável e acolhedor, apresentando os serviços oferecidos como banho e tosa, produtos disponíveis e agendamento de horários para os pets.',
+    en: 'Professional landing page developed for a pet shop, with a friendly and welcoming design, presenting services offered such as grooming, available products and appointment scheduling for pets.',
+  },
+
   // About
   'about.title': { pt: 'Sobre mim', en: 'About me' },
   'about.text': {
