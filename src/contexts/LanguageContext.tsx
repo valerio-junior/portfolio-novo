@@ -26,7 +26,7 @@ const translations: Record<string, Record<Language, string>> = {
   'hero.contact': { pt: 'Entre em contato', en: 'Get in touch' },
 
   // Projects
-  'projects.title': { pt: 'Meus Projetos', en: 'My Projects' },
+  'projects.title': { pt: 'Projetos de estudo', en: 'Study projects' },
   'projects.subtitle': {
     pt: 'Veja alguns dos meus projetos recentes',
     en: 'Check out some of my recent projects',
