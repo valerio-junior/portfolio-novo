@@ -82,8 +82,8 @@ const translations: Record<string, Record<Language, string>> = {
   // Professional Projects
   'proProjects.title': { pt: 'Projetos profissionais', en: 'Professional Projects' },
   'proProjects.subtitle': {
-    pt: 'Landing pages desenvolvidas para clientes reais',
-    en: 'Landing pages developed for real clients',
+    pt: 'Landing pages pensadas para clientes reais',
+    en: 'Landing pages designed for real customers.',
   },
   'proProject1.title': { pt: 'Landing Page Academia', en: 'Gym Landing Page' },
   'proProject1.desc': {
@@ -104,8 +104,8 @@ const translations: Record<string, Record<Language, string>> = {
   // About
   'about.title': { pt: 'Sobre mim', en: 'About me' },
   'about.text': {
-    pt: 'Minha jornada é marcada pela versatilidade e pelo foco em resultados. De ex-jogador de futebol profissional a suporte técnico especializado, sempre busquei entender como as engrenagens funcionam para entregar a melhor experiência. Com passagens pelos setores de vendas e suporte de softwares criticos (Postos e Laboratórios), desenvolvi uma visão aguçada para a resolução de problemas e o atendimento ao usuário. Atualmente, estou focado na transição de carreira para Desenvolvimento Front-end, unindo minha experiência em suporte com o poder do HTML, CSS e JavaScript para criar interfaces intuitivas e eficientes. Estou em busca da minha primeira oportunidade para aplicar tecnica e determinacao em projetos reais.',
-    en: "My journey is marked by versatility and a focus on results. From a former professional football player to specialized technical support, I've always sought to understand how the gears work to deliver the best experience. With experience in sales and critical software support (Gas Stations and Laboratories), I developed a sharp vision for problem-solving and user support. Currently, I'm focused on transitioning my career to Front-end Development, combining my support experience with the power of HTML, CSS and JavaScript to create intuitive and efficient interfaces. I'm looking for my first opportunity to apply technique and determination to real projects.",
+    pt: 'Minha jornada é marcada pela versatilidade e pelo foco em resultados. De ex-jogador de futebol profissional a suporte técnico especializado, sempre busquei entender como as engrenagens funcionam para entregar a melhor experiência. Com passagens pelos setores de vendas e suporte de softwares criticos (Postos e Laboratórios), desenvolvi uma visão aguçada para a resolução de problemas e o atendimento ao usuário. Atualmente, estou focado na transição de carreira para Desenvolvimento Front-end, unindo minha experiência em suporte com o poder do HTML, CSS, JavaScript e React para criar interfaces intuitivas e eficientes. Estou em busca da minha primeira oportunidade para aplicar tecnica e determinacao em projetos reais.',
+    en: "My journey is marked by versatility and a focus on results. From a former professional football player to specialized technical support, I've always sought to understand how the gears work to deliver the best experience. With experience in sales and critical software support (Gas Stations and Laboratories), I developed a sharp vision for problem-solving and user support. Currently, I'm focused on transitioning my career to Front-end Development, combining my support experience with the power of HTML, CSS, JavaScript and React to create intuitive and efficient interfaces. I'm looking for my first opportunity to apply technique and determination to real projects.",
   },
 
   // Contact

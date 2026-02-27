@@ -12,7 +12,7 @@ interface Highlight {
 
 const highlights: Highlight[] = [
   { icon: Monitor, labelPt: 'Front-End', labelEn: 'Front-End' },
-  { icon: Code, labelPt: 'HTML/CSS/JS', labelEn: 'HTML/CSS/JS' },
+  { icon: Code, labelPt: 'HTML/CSS/JS/React', labelEn: 'HTML/CSS/JS/React' },
   { icon: Server, labelPt: 'Back-End', labelEn: 'Back-End' },
   { icon: Zap, labelPt: 'Resolucao de Problemas', labelEn: 'Problem Solving' },
 ]

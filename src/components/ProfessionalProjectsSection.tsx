@@ -18,7 +18,7 @@ const professionalProjects: ProfessionalProject[] = [
     descKey: 'proProject1',
     tags: ['HTML', 'CSS', 'JavaScript'],
     color: '#ef4444',
-    image: '/assets/img/projeto-academia.jpg',
+    image: '/assets/img/projeto-academia.png',
     link: 'https://valerio-junior.github.io/projeto-academia/',
   },
   {
@@ -26,7 +26,7 @@ const professionalProjects: ProfessionalProject[] = [
     descKey: 'proProject2',
     tags: ['HTML', 'CSS', 'JavaScript'],
     color: '#d4a017',
-    image: '/assets/img/projeto-advocacia.jpg',
+    image: '/assets/img/projeto-advocacia.png',
     link: 'https://valerio-junior.github.io/projeto-advocacia/',
   },
   {
@@ -34,7 +34,7 @@ const professionalProjects: ProfessionalProject[] = [
     descKey: 'proProject3',
     tags: ['HTML', 'CSS', 'JavaScript'],
     color: '#22c55e',
-    image: '/assets/img/projeto-petshop.jpg',
+    image: '/assets/img/projeto-petshop.png',
     link: 'https://valerio-junior.github.io/projeto-petshop/',
   },
 ]
