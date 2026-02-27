@@ -35,8 +35,8 @@ const translations: Record<string, Record<Language, string>> = {
   // Project items
   'project1.title': { pt: 'Buscador de contatos', en: 'Contact Finder' },
   'project1.desc': {
-    pt: 'Seria um verificador de contatos, onde e possivel pesquisar e caso tenha o contato no array, vai ser filtrado para voce',
-    en: 'A contact verifier where you can search and if the contact exists in the array, it will be filtered for you',
+    pt: 'Seria um verificador de contatos, onde é possivel pesquisar o contato e caso tenha o contato no array que deixei fixo no código, vai ser filtrado para voce',
+    en: 'It would be a contact checker, where you can search for a contact and, if the contact is in the array I ve fixed in the code, it will be filtered for you.',
   },
   'project2.title': { pt: 'Carregar e filtrar burger utilizando array', en: 'Load and filter burgers using array' },
   'project2.desc': {
@@ -45,8 +45,8 @@ const translations: Record<string, Record<Language, string>> = {
   },
   'project3.title': { pt: 'Conversor de moeda', en: 'Currency Converter' },
   'project3.desc': {
-    pt: 'Projeto que consiste em converter as moedas, conforme o usuario escolher, mas nao e utilizado valor oficial da moeda.',
-    en: 'Project that converts currencies as chosen by the user, but does not use the official currency value.',
+    pt: 'Projeto que consiste em converter as moedas, conforme o usuario escolher, mas nao é utilizado API para trazer o valor oficial da moeda.',
+    en: 'This project converts currencies according to the user s choice, but does not use an API to retrieve the official currency value.',
   },
   'project4.title': { pt: 'Controle de estoque', en: 'Stock Control' },
   'project4.desc': {
@@ -60,7 +60,7 @@ const translations: Record<string, Record<Language, string>> = {
   },
   'project6.title': { pt: 'Starbucks', en: 'Starbucks' },
   'project6.desc': {
-    pt: 'Projeto do starbucks, onde e possivel trocar as cores e a imagem do copo dinamicamente e tirar duvidas com o bot, verificando valores e produtos do starbucks.',
+    pt: 'Projeto do starbucks, onde é possivel trocar as cores e a imagem do copo dinamicamente e tirar duvidas com o bot, verificando valores e produtos do starbucks.',
     en: 'Starbucks project where you can dynamically change colors and cup images and ask questions to the bot, checking Starbucks values and products.',
   },
   'project7.title': { pt: 'Site delivery', en: 'Delivery Website' },
